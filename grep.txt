@@ -1,0 +1,3 @@
+Available:	20.98 GB (20,976,787,456 bytes)
+  Capacity:	79.98 GB (79,976,218,624 bytes)
+104.18GB free
